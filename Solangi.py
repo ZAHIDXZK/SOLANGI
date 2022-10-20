@@ -22,7 +22,7 @@ import os
 
 try:
 
-	import requestsexcept ImportError:
+	import requestsexcept ImportError:https://github.com/ZAHIDXZK/SOLANGI.git
 
 	os.system("pip install requests")
 
